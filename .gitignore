@@ -1,0 +1,17 @@
+# Node.js (frontend - React)
+node_modules/
+.env
+build/
+
+# Java / Spring Boot (backend)
+target/
+*.class
+*.jar
+*.war
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
